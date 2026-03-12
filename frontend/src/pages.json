@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "途吉天下"
+      }
+    },
+    {
+      "path": "pages/vehicles/index",
+      "style": {
+        "navigationBarTitleText": "车辆管理"
+      }
+    },
+    {
+      "path": "pages/location/index",
+      "style": {
+        "navigationBarTitleText": "实时定位"
+      }
+    },
+    {
+      "path": "pages/track/index",
+      "style": {
+        "navigationBarTitleText": "轨迹回放"
+      }
+    },
+    {
+      "path": "pages/fuel/index",
+      "style": {
+        "navigationBarTitleText": "油耗统计"
+      }
+    },
+    {
+      "path": "pages/fence/index",
+      "style": {
+        "navigationBarTitleText": "电子围栏"
+      }
+    },
+    {
+      "path": "pages/profile/index",
+      "style": {
+        "navigationBarTitleText": "个人中心"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "途吉天下",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  }
+}
